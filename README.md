@@ -16,7 +16,7 @@ npm install buf2hex
 
 NFT Code is located at:
 
-https://goerli.etherscan.io/nft/0x0cb73e3905331d865fb5f6f7a4a49dace4861ab9
+[https://goerli.etherscan.io/nft/0x0cb73e3905331d865fb5f6f7a4a49dace4861ab9](https://goerli.etherscan.io/address/0x0CB73e3905331d865FB5f6f7A4a49dace4861AB9#writeContract)
 
 NFT IMAGE IS:
 
