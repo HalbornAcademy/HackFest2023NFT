@@ -12,7 +12,6 @@ install dependencies and run with node.
 
 npm install merkletreejs
 npm install keccak256
-npm install buf2hex
 
 NFT Code is located at:
 
