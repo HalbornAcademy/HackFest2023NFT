@@ -10,8 +10,7 @@ Download and install node-js
 
 install dependencies and run with node.
 
-npm install merkletreejs
-npm install keccak256
+npm install merkletreejs keccak256
 
 NFT Code is located at:
 
