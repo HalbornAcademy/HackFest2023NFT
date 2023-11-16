@@ -1,4 +1,9 @@
 # HackFest2023NFT
+
+Youll need some Test Goerli to send the command to the contract.
+https://goerlifaucet.com/
+or others
+
 Bypass the Merkle Root Validation to Mint a SANS Hackfest 2023 NFT from the smart contract.
 
 Download and install node-js
